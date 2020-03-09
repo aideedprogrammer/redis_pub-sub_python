@@ -8,5 +8,6 @@ After finish setup you can follow to install redis as a link https://www.digital
 
 Clone this project and run that project (make sure you have activate your virtual enviroment)
 
+install flask in your virtual enviroment then run.
 
 python __init__.py
